@@ -18,7 +18,7 @@
     <li>Each recipe includes title, description, ingredients, and image</li>
   </ul>
 
-  <h3>💬 User Reviews</h3>
+  <h3>User Reviews</h3>
   <ul>
     <li>Logged-in users can leave reviews on recipes</li>
     <li>Each review includes a rating and comment</li>
@@ -26,7 +26,7 @@
     <li>MongoDB collection used to manage reviews separately</li>
   </ul>
 
-  <h3>👥 User Module</h3>
+  <h3>User Module</h3>
   <ul>
     <li>Admin can manage (CRUD) user accounts</li>
     <li>Fields: name, email, and hashed password</li>
