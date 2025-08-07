@@ -10,7 +10,7 @@
     <li>Middleware to protect routes and restrict unauthenticated access</li>
   </ul>
 
-  <h3>📋 Recipe Management</h3>
+  <h3>Recipe Management</h3>
   <ul>
     <li>Create, read, update, and delete (CRUD) recipes</li>
     <li>Upload and store recipe images with validation</li>
